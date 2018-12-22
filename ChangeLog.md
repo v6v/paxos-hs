@@ -1,0 +1,3 @@
+# Changelog for paxos-hs
+
+## Unreleased changes
