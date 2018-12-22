@@ -1,0 +1,2 @@
+module Paxos.Acceptor where
+

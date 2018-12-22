@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import Paxos
 
 main :: IO ()
 main = someFunc
